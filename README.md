@@ -1,4 +1,4 @@
 Python
 ======
 
-This repository contains ad hoc Python programs and modules used for data mining
+This repository contains ad hoc Python scripts
